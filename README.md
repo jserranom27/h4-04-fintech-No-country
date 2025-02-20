@@ -33,7 +33,6 @@ Desarrollé un modelo de clustering único, capaz de segmentar a los usuarios se
 | ![Walkiria Arteaga](https://avatars.githubusercontent.com/wlkrtg?s=100) | Walkiria Arteaga | UI/UX Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walkiria-arteaga-10501925b/) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/wlkrtg) |
 | ![Anthony Parra](https://avatars.githubusercontent.com/An7h0ny1?s=100) | Anthony Parra | Backend Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-se/) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/An7h0ny1) |
 
-## Instrucciones para Instalar y Ejecutar el Proyecto Localmente
 
 ## Instrucciones para Instalar y Ejecutar el Proyecto Localmente
 
